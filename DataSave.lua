@@ -102,5 +102,5 @@ game:BindToClose(function()
 		if v then 
 			Set(v)
 		end
-	end
+	end 
 end)
