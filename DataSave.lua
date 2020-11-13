@@ -1,7 +1,7 @@
 --Int services--
 local Players = game:GetService("Players")
 local DSS = game:GetService("DataStoreService")
-local DataStore = DSS:GetDataStore("GameSave1")
+local DataStore = DSS:GetDataStore("DataStore")
 
 --Int vars--
 local tries = 2
